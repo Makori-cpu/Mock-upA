@@ -3,14 +3,10 @@
 
 :root {
   --color-bg: #ffffff;
-  --color-ink: #0B3D2E;
+  --color-ink: #0b0b0b;
   --color-muted: #6e6e6e;
   --color-line: #e3e3e3;
-  --color-invert-bg: #0B3D2E;
-  --color-ink: #0B3D2E;
-  --color-muted: #6e6e6e;
-  --color-line: #e3e3e3;
-  --color-invert-bg: #0B3D2E;
+  --color-invert-bg: #0b0b0b;
   --color-invert-ink: #ffffff;
   --color-invert-muted: #a3a3a3;
   --color-invert-line: #2a2a2a;
